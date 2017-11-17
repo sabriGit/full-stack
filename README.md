@@ -16,12 +16,12 @@ Other tools and technologies used:
 * [Angular 2 JWT](https://github.com/auth0/angular2-jwt): JWT helper for Angular
 * [Bcrypt.js](https://github.com/dcodeIO/bcrypt.js): password encryption
 
-## Prerequisites
+## Prerequisites 
 1. Install [Node.js](https://nodejs.org) and [MongoDB](https://www.mongodb.com)
 2. Install Angular CLI: `npm i -g @angular/cli`
 3. From project root folder install all the dependencies: `npm i`
 
-## Run
+## To Run
 ### Development mode
 `npm run dev`: [concurrently](https://github.com/kimmobrunfeldt/concurrently) execute MongoDB, Angular build, TypeScript compiler and Express server.
 
